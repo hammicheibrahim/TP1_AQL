@@ -4,17 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a98a6ff-e79b-49d3-982d-f4059fabbf14" name="Changes" comment="" />
+    <list default="true" id="4a98a6ff-e79b-49d3-982d-f4059fabbf14" name="Changes" comment="t">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo2test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="E:\TP_S2\assurance\tp_1\htmlReport" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hammicheibrahim"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="801d02f7-ff79-452f-b0c2-18d95bbb2820" />
+        <option name="url" value="https://github.com/hammicheibrahim/TP1_AQL.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2cxGk7rvuykX36kJEejh4A3FTZc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,10 +66,148 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "E:/TP_S2/tp_1/src/main/java/org/example/Main.java"
+    "last_opened_file_path": "E:/TP_S2/assurance/tp0",
+    "onboarding.tips.debug.path": "E:/TP_S2/tp_1/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.Exo2test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="tp_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo1Test" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="tp_1" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="LineCoverageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LineCoverageTest" />
+      <option name="MAIN_CLASS_NAME" value="LineCoverageTest.Exo1Test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp_1" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="LineCoverageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LineCoverageTest" />
+      <option name="MAIN_CLASS_NAME" value="LineCoverageTest.Exo1Test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo1Test" type="JUnit" factoryName="JUnit" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="tp_1" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="BranchCoverageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BranchCoverageTest" />
+      <option name="MAIN_CLASS_NAME" value="BranchCoverageTest.Exo1Test" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo2test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LineCoverageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LineCoverageTest" />
+      <option name="MAIN_CLASS_NAME" value="LineCoverageTest.Exo2test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo2text" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="tp_1" />
+      <extension name="coverage" sample_coverage="false" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Exo2text" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineCoverageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LineCoverageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LineCoverageTest" />
+      <option name="MAIN_CLASS_NAME" value="LineCoverageTest.LineCoverageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in tp_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp_1" />
+      <extension name="coverage" sample_coverage="false" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.Exo2text (1)" />
+      <item itemvalue="JUnit.Exo2test" />
+      <item itemvalue="JUnit.java in tp_1" />
+      <item itemvalue="JUnit.Exo1Test" />
+      <item itemvalue="JUnit.LineCoverageTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Exo2test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.java in tp_1" />
+        <item itemvalue="JUnit.Exo2text" />
+        <item itemvalue="JUnit.Exo1Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,17 +217,54 @@
       <option name="presentableId" value="Default" />
       <updated>1709045960902</updated>
     </task>
+    <task id="LOCAL-00001" summary="t">
+      <option name="closed" value="true" />
+      <created>1709046936935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709046936935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="t" />
+    <option name="LAST_COMMIT_MESSAGE" value="t" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
+          <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tp_1$Exo1Test__1_.ic" NAME="Exo1Test (1) Coverage Results" MODIFIED="1709052794890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>BranchCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tp_1$Exo1Test.ic" NAME="Exo1Test Coverage Results" MODIFIED="1709052944498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tp_1$Exo2test.ic" NAME="Exo2test Coverage Results" MODIFIED="1709054748955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tp_1$Exo2text.ic" NAME="Exo2text Coverage Results" MODIFIED="1709053692678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/tp_1$LineCoverageTest.ic" NAME="LineCoverageTest Coverage Results" MODIFIED="1709049327338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tp_1$java_in_tp_1.ic" NAME="java in tp_1 Coverage Results" MODIFIED="1709054266087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/tp_1$Exo1Test_testIsPalindrome.ic" NAME="Exo1Test.testIsPalindrome Coverage Results" MODIFIED="1709051513503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>BranchCoverageTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tp_1$BranchCoverageTest_in_tp_1.ic" NAME="BranchCoverageTest in tp_1 Coverage Results" MODIFIED="1709051550910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/tp_1$All_in_tp_1.ic" NAME="All in tp_1 Coverage Results" MODIFIED="1709048915189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/tp_1$Exo1Test.exec" NAME="Exo1Test Coverage Results" MODIFIED="1709050763150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LineCoverageTest.*</FILTER>
+    </SUITE>
   </component>
 </project>
