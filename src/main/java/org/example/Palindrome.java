@@ -11,7 +11,6 @@ public class Palindrome {
             if (s.charAt(i) != s.charAt(j)) {
                 return false;
             }
-
             j++;
             i--;
         }
