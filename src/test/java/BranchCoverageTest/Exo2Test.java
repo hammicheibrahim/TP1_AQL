@@ -13,7 +13,7 @@ public class Exo2Test {
     public void testIsAnagram() {
         /// branche tow elese implicite 2
         assertFalse(Anagram.isAnagram("hello", "ld"));///branche 3
-        assertTrue(Anagram.isAnagram("hello", "world"));/// branche 4 , 5
+        assertFalse(Anagram.isAnagram("hello", "world"));/// branche 4 , 5
         assertTrue(Anagram.isAnagram("chine", "niche"));/// branche 6 , 7
 
     }
@@ -24,7 +24,7 @@ public class Exo2Test {
             Anagram.isAnagram(null,null);
             fail("Expected NullPointerException, but no exception was thrown.");
         } catch (NullPointerException e) {
-            assertEquals("String must not be null", e.getMessage());
+            assertEquals("Strings must not be null", e.getMessage());
         }
     }
 }

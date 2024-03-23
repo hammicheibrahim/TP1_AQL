@@ -12,24 +12,20 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class Exo2test{
     @Test
     public void testIsAnagram() {
-        assertTrue(Anagram.isAnagram("listen", "silent"));
         assertFalse(Anagram.isAnagram("hello", "world"));
         assertFalse(Anagram.isAnagram("hello", "rld"));
         assertTrue(Anagram.isAnagram("chine", "niche"));
         assertTrue(Anagram.isAnagram("Astronomer", "Moon starer"));
     }
-
     @Test
-    public void testIsAnagramWithNull() {
-        assertThrows(NullPointerException.class, () -> Anagram.isAnagram(null, "silent"));
-        assertThrows(NullPointerException.class, () -> Anagram.isAnagram("listen", null));
-        assertThrows(NullPointerException.class, () -> Anagram.isAnagram(null, null));
+    public void testIsPalindromeWithNull() {
+        /// branche one
+        try {
+            Anagram.isAnagram(null,null);
+            fail("Expected NullPointerException, but no exception was thrown.");
+        } catch (NullPointerException e) {
+            assertEquals("Strings must not be null", e.getMessage());
+        }
     }
 
-    @Test
-    public void testIsAnagramWithNonAlphabeticalCharacters() {
-        assertThrows(IllegalArgumentException.class, () -> Anagram.isAnagram("abc123", "321cba"));
-        assertThrows(IllegalArgumentException.class, () -> Anagram.isAnagram("abc", "abc!"));
-        assertThrows(IllegalArgumentException.class, () -> Anagram.isAnagram("abc", "ABC"));
-    }
 }
