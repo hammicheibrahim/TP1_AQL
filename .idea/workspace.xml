@@ -4,26 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a98a6ff-e79b-49d3-982d-f4059fabbf14" name="Changes" comment=".exo1test, ex2test branche coverage">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RomanNumeral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo4Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo5Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo6Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo4Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo5Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo6Test.java" afterDir="false" />
+    <list default="true" id="4a98a6ff-e79b-49d3-982d-f4059fabbf14" name="Changes" comment="updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo2test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo2test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo5Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BranchCoverageTest/Exo6Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo5Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LineCoverageTest/Exo6Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -354,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709059602408</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updated">
+      <option name="closed" value="true" />
+      <created>1711228041052</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711228041052</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -362,7 +356,8 @@
     <MESSAGE value="linecovrge : Exo1Test and Exo2Test" />
     <MESSAGE value="." />
     <MESSAGE value=".exo1test, ex2test branche coverage" />
-    <option name="LAST_COMMIT_MESSAGE" value=".exo1test, ex2test branche coverage" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Anagram_java$Exo5Test__1_.ic" NAME="Exo5Test (1) Coverage Results" MODIFIED="1711227022728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -375,14 +370,14 @@
       <FILTER>LineCoverageTest.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/tp_1$Exo2text.ic" NAME="Exo2text Coverage Results" MODIFIED="1709053692678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
-    <SUITE FILE_PATH="coverage/Anagram_java$java_in_tp_1.ic" NAME="java in tp_1 Coverage Results" MODIFIED="1711227818876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Anagram_java$java_in_tp_1.ic" NAME="java in tp_1 Coverage Results" MODIFIED="1711227914378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Anagram_java$Exo5Test.ic" NAME="Exo5Test Coverage Results" MODIFIED="1711226993813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>BranchCoverageTest.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Anagram_java$Exo1Test__1_.ic" NAME="Exo1Test (1) Coverage Results" MODIFIED="1711227791420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>BranchCoverageTest.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Anagram_java$Exo3Test.ic" NAME="Exo3Test Coverage Results" MODIFIED="1711227803254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Anagram_java$Exo3Test.ic" NAME="Exo3Test Coverage Results" MODIFIED="1711227955158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>BranchCoverageTest.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Anagram_java$Exo2Test.ic" NAME="Exo2Test Coverage Results" MODIFIED="1710914032486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">

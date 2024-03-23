@@ -14,6 +14,6 @@ public class Exo6Test {
         assertEquals("Fizz", FizzBuzz.fizzBuzz(3));
         assertEquals("Buzz", FizzBuzz.fizzBuzz(5));
         assertEquals("FizzBuzz", FizzBuzz.fizzBuzz(15));
-        // Add more test cases as needed to cover different branches
+
     }
 }
